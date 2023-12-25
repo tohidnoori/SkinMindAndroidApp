@@ -9,8 +9,20 @@
 این برنامه بصورت پایانامه دانشگاهی اماده شده در فاز دموی ان هست و قسمت هوش مصنوعی ان هنوز اضافه نشد
 <br/>
 <div align="center" style="display:flex;flex-direction:row;align-items: center;">
-  <img style="margin:10;" src="https://www.karlancer.com/api/file/x/x764/1698246407-MpjA.JPG" width="300" alt="Image 1">
-  <img style="margin:10;" src="https://www.karlancer.com/api/file/x/x764/1698246410-vtb0.JPG" width="300" alt="Image 2">
+  <img style="margin:10;" src="https://github.com/tohidnoori/SkinMindAndroidApp/blob/main/Screenshot_20231226-000727_SkinMind.jpg" width="300" alt="Image 1">
+  <img style="margin:10;" src="https://github.com/tohidnoori/SkinMindAndroidApp/blob/main/Screenshot_20231226-000739_SkinMind.jpg" width="300" alt="Image 2">
+  <div/>
+<br/>
+<br/>
+<div align="center" style="display:flex;flex-direction:row;align-items: center;">
+  <img style="margin:10;" src="https://github.com/tohidnoori/SkinMindAndroidApp/blob/main/Screenshot_20231226-001113_SkinMind.jpg" width="300" alt="Image 1">
+  <img style="margin:10;" src="https://github.com/tohidnoori/SkinMindAndroidApp/blob/main/Screenshot_20231226-001215_SkinMind.jpg" width="300" alt="Image 2">
+  <div/>
+<br/>
+<br/>
+<div align="center" style="display:flex;flex-direction:row;align-items: center;">
+  <img style="margin:10;" src="https://github.com/tohidnoori/SkinMindAndroidApp/blob/main/Screenshot_20231226-001239_SkinMind.jpg" width="300" alt="Image 1">
+  <img style="margin:10;" src="https://github.com/tohidnoori/SkinMindAndroidApp/blob/main/Screenshot_20231226-001227_SkinMind.jpg" width="300" alt="Image 2">
   <div/>
 <br/>
 <br/>
