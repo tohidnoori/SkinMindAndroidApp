@@ -16,13 +16,15 @@
 <br/>
 <div align="center" style="display:flex;flex-direction:row;align-items: center;">
   <img style="margin:10;" src="https://github.com/tohidnoori/SkinMindAndroidApp/blob/main/Screenshot_20231226-001113_SkinMind.jpg" width="300" alt="Image 1">
-  <img style="margin:10;" src="https://github.com/tohidnoori/SkinMindAndroidApp/blob/main/Screenshot_20231226-001215_SkinMind.jpg" width="300" alt="Image 2">
+  <img style="margin:10;" src="https://github.com/tohidnoori/SkinMindAndroidApp/blob/main/Screenshot_20231226-001227_SkinMind.jpg" width="300" alt="Image 2">
+
   <div/>
 <br/>
 <br/>
 <div align="center" style="display:flex;flex-direction:row;align-items: center;">
-  <img style="margin:10;" src="https://github.com/tohidnoori/SkinMindAndroidApp/blob/main/Screenshot_20231226-001239_SkinMind.jpg" width="300" alt="Image 1">
-  <img style="margin:10;" src="https://github.com/tohidnoori/SkinMindAndroidApp/blob/main/Screenshot_20231226-001227_SkinMind.jpg" width="300" alt="Image 2">
+    <img style="margin:10;" src="https://github.com/tohidnoori/SkinMindAndroidApp/blob/main/Screenshot_20231226-001215_SkinMind.jpg" width="300" alt="Image 2">
+      <img style="margin:10;" src="https://github.com/tohidnoori/SkinMindAndroidApp/blob/main/Screenshot_20231226-001239_SkinMind.jpg" width="300" alt="Image 1">
+
   <div/>
 <br/>
 <br/>
