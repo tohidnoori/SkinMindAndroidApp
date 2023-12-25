@@ -1,4 +1,4 @@
-# SafiranTalaApllicationFlutter
+# SkinMindAndroidApp
 اپلیکیشن اندروید توسعه داده شده با زبان جاوا و کاتلین 
 <br/>
 <br/>
